@@ -1,0 +1,50 @@
+.sixth_screen_container {
+    display: flex;
+    flex-direction: column;
+    background-color: #FAF9F6;
+    margin-bottom: 40px;
+}
+
+.sixth_screen_container h2 {
+    font-size: 44px;
+}
+
+.text_center {
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 auto;
+    max-width: 485px;
+    margin: 30px;
+    border: 1px solid #E8DCF8;
+}
+
+.card_container_six_screen {
+    display: flex;
+    justify-content: center;
+}
+
+.link {
+    padding: 20px;
+}
+
+.card_body {
+    padding: 0 20px;
+    max-width: 350px;
+    font-size: 14px;
+    line-height: 2.5;
+    flex: 1 0 auto;
+}
+
+.card_tittle {
+    padding: 0 20px;
+    font-size: 24px;
+}
+
+.card_date {
+    padding: 20px;
+    color: #F7A500;
+}

@@ -1,0 +1,18 @@
+.counters {
+    padding: 100px 500px;
+}
+
+.one_counter {
+    margin: 10px;
+}
+
+button {
+    margin: 5px;
+}
+
+span {
+    display: inline-block;
+    padding: 0 5px 2px;
+    border: 1px solid black;
+    color: #ff6f00;
+}

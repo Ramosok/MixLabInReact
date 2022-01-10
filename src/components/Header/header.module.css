@@ -1,0 +1,10 @@
+.header__container {
+    width: 1440px;
+    max-height: 93px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 22px 60px;
+    box-sizing: border-box;
+    align-items: center;
+    font-family: Roboto-Bold, serif;
+}

@@ -1,0 +1,10 @@
+.user__action {
+    max-width: 508px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 40px;
+}
+.user__action a {
+    margin: 0 33px;
+}

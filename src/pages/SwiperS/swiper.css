@@ -1,0 +1,7 @@
+.swiper_class {
+    height: 353px;
+}
+.swiper-wrapper, .swiper-slide {
+    padding: 200px !important;
+    transform: translateX(-100) !important;
+}

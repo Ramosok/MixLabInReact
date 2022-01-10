@@ -1,0 +1,17 @@
+.fifth_screen_container {
+    padding: 58px 0;
+    text-align: center;
+    position: relative;
+}
+
+.hearts_container {
+    position: absolute;
+    top: 70px;
+    right: 60px;
+    z-index: 2;
+}
+
+.fifth_screen_container h2 {
+    font-size: 43px;
+}
+

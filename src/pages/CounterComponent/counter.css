@@ -1,0 +1,19 @@
+.counter {
+    width: 400px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 30px;
+    margin: 5% auto;
+    text-align: center;
+}
+.button__wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+.counter__screen {
+    font-size: 40px;
+}
+.button {
+    padding: 10px;
+    border-radius: 5px;
+}

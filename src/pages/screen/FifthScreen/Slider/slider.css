@@ -1,0 +1,41 @@
+.carousel {
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    height: 354px;
+    padding: 10px 40px;
+}
+
+/*.card_container {
+    min-width: 6376px;
+    display: flex;
+
+}*/
+.swiper-slide {
+    height: 345px !important;
+    width: 1072px !important;
+}
+
+.card_carousel {
+    width: 1072px;
+
+    height: 345px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    border: 1px solid #CCC;
+    border-radius: 15px;
+    background: #eee;
+
+}
+
+.img_container {
+    max-width: 238px;
+    max-height: 238px;
+}
+
+.card_text_container {
+
+}

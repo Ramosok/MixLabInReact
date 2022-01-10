@@ -1,0 +1,8 @@
+.btn__typical {
+    background-color: var(--bg-color);
+    color: #ffffff;
+    border-radius: 20px;
+    padding: 10px 33px 9px 43px;
+    margin-bottom: 10px;
+    align-self: center;
+}

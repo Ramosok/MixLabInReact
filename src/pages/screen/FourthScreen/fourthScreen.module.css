@@ -1,0 +1,25 @@
+.fourth_screen_container {
+    max-width: 1440px;
+    background-color: #e3e1e1;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 8px 150px;
+}
+
+.fourth_screen_right_block {
+    padding: 150px 32px;
+}
+
+.uppercase_text {
+    text-transform: uppercase;
+    color: #ffa100;
+}
+
+.fourth_screen_tittle {
+    font-size: 44px;
+}
+
+.fourth_screen_body {
+    font-size: 16px;
+}

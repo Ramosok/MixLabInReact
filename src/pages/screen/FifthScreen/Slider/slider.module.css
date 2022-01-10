@@ -1,0 +1,38 @@
+.card_carousel {
+    max-width: 1072px;
+    height: 345px;
+    display: flex;
+    align-items: center;
+    border: 1px solid #CCC;
+    border-radius: 15px;
+    background: #DFF5F6;
+    transform: translateX(102%);
+    padding: 25px 0;
+}
+
+.img_container {
+    margin-left: 40px;
+    max-width: 238px;
+    max-height: 238px;
+}
+
+.card_text_container {
+    text-align: left;
+    margin-left: 20px;
+}
+.card_text_container_slider {
+    max-width: 709px;
+    text-align: left;
+    margin-left: 20px;
+
+}
+
+.logo_link_slider {
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.logo_link_slider img {
+    margin: 0 20px;
+}

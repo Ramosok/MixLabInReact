@@ -1,0 +1,33 @@
+.fifth_screen_container {
+    padding: 58px 0;
+    text-align: center;
+    position: relative;
+}
+
+.hearts_container {
+    position: absolute;
+    top: 70px;
+    right: 60px;
+    z-index: 2;
+}
+
+.fifth_screen_container h2 {
+    font-size: 43px;
+}
+
+.card_text_container_slider {
+    max-width: 709px;
+    text-align: left;
+    margin-left: 20px;
+
+}
+
+.logo_link_slider {
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.logo_link_slider img {
+    margin: 0 20px;
+}
