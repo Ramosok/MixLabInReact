@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/MixLabInReact/static/css/main.0ebd2f88.css",
+    "main.js": "/MixLabInReact/static/js/main.e3adefa3.js",
+    "static/media/girlAndDog.svg": "/MixLabInReact/static/media/girlAndDog.3d1f43623b7a18105f167315e1af720b.svg",
+    "static/media/first-screen-rabbit.svg": "/MixLabInReact/static/media/first-screen-rabbit.f5f22f765ba2e74122f3cafe2db05bcb.svg",
+    "static/media/first-screen-right.svg": "/MixLabInReact/static/media/first-screen-right.51f8b68f9218f16a8bf9a6a403fbc78b.svg",
+    "static/media/third_screen-dog.svg": "/MixLabInReact/static/media/third_screen-dog.1dab7fc8b7bd35717395e2da7d822ff9.svg",
+    "static/media/dogAndBoxSlider.svg": "/MixLabInReact/static/media/dogAndBoxSlider.bb9139b550aad9471d89a7b31f981d6e.svg",
+    "static/media/Roboto-Medium.ttf": "/MixLabInReact/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
+    "static/media/third_screen-rabbit.svg": "/MixLabInReact/static/media/third_screen-rabbit.90c23436be482eb1ecd31c95af2f9ffc.svg",
+    "static/media/Roboto-Bold.ttf": "/MixLabInReact/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
+    "static/media/parrot.svg": "/MixLabInReact/static/media/parrot.1d492df8b36214af19a1645ac4ff012a.svg",
+    "static/media/hearts.svg": "/MixLabInReact/static/media/hearts.0d8bce825091c80eee9649cba5298b20.svg",
+    "static/media/first-screen-left.svg": "/MixLabInReact/static/media/first-screen-left.41b580c73484659cee46f239407a6ed3.svg",
+    "static/media/LogoSocialMini.svg": "/MixLabInReact/static/media/LogoSocialMini.e1b8ee21e6ed8e7a497f1703e799d94d.svg",
+    "static/media/Corparate.svg": "/MixLabInReact/static/media/Corparate.ca6f7c4dab7d3221e75dc0d3793cb83f.svg",
+    "static/media/DOG.svg": "/MixLabInReact/static/media/DOG.9f1a65a96fb81a8f74f14e584004d7cd.svg",
+    "static/media/ACA.svg": "/MixLabInReact/static/media/ACA.c774c73b7fc720fd30e30bbae65d5c83.svg",
+    "static/media/SixScreenDoctor.svg": "/MixLabInReact/static/media/SixScreenDoctor.cd0fb06ebe2870b9f577789269fc5f34.svg",
+    "static/media/SixScreenDog.svg": "/MixLabInReact/static/media/SixScreenDog.baf8d7976136f31f84f33d7c529a7aa1.svg",
+    "static/media/MixLabLogo.svg": "/MixLabInReact/static/media/MixLabLogo.cf15c0eeda1a487906e40745a348d12c.svg",
+    "static/media/PCCA.svg": "/MixLabInReact/static/media/PCCA.98de62b2213db6ba7fe812496113eef8.svg",
+    "static/media/AllianceForPC.svg": "/MixLabInReact/static/media/AllianceForPC.db298cb88a40c994b708caaf5c38f9a5.svg",
+    "static/media/LOGO.svg": "/MixLabInReact/static/media/LOGO.0bb0bb9ca43b9b6c442bcc9220c7c959.svg",
+    "static/media/socialNoName.svg": "/MixLabInReact/static/media/socialNoName.b4ab57b2cd0e54a7a6d11cc7c6216fe5.svg",
+    "static/media/socialInsta.svg": "/MixLabInReact/static/media/socialInsta.feeca916a49d1c76c08ba30415ce7289.svg",
+    "static/media/socialGoogle.svg": "/MixLabInReact/static/media/socialGoogle.54f8240e55d1c32968d8887ab7fbaee8.svg",
+    "static/media/socialTwitter.svg": "/MixLabInReact/static/media/socialTwitter.846db793ac6cac826dca6810e94c13c7.svg",
+    "index.html": "/MixLabInReact/index.html",
+    "static/media/socialFacebook.svg": "/MixLabInReact/static/media/socialFacebook.ed18d89d405187124904f6c0a1bdea6d.svg",
+    "main.0ebd2f88.css.map": "/MixLabInReact/static/css/main.0ebd2f88.css.map",
+    "main.e3adefa3.js.map": "/MixLabInReact/static/js/main.e3adefa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ebd2f88.css",
+    "static/js/main.e3adefa3.js"
+  ]
+}
