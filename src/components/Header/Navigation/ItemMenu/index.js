@@ -1,6 +1,8 @@
-const ItemMenu = ({tittle, linkTo}) => {
+import {Link} from "react-router-dom";
+
+const ItemMenu = ({tittle, linkTo,id}) => {
     return (
-        <a href={`${linkTo}`}>{tittle}</a>
+        '/' ? <Link to={linkTo}>{tittle}</Link> : <a href={linkTo}>{tittle}</a>
     );
 };
 

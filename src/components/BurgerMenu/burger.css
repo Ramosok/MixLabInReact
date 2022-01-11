@@ -1,9 +1,5 @@
-.menu-bars {
-    width: 20px;
-    height: 20px;
-    margin-left: 2rem;
-    font-size: 2rem;
-    background: none;
+.navbar {
+
 }
 
 .is_active {
@@ -43,17 +39,17 @@
 .nav-menu {
     background-color: #060b26;
     width: 250px;
-    height: 100vh;
+    height: 100%;
     display: flex;
     justify-content: center;
     position: fixed;
     top: 0;
-    left: -100%;
+    margin-left: -100%;
     transition: 850ms;
 }
 
 .nav-menu.active {
-    left: 0;
+    margin: 0;
     transition: 350ms;
 }
 
@@ -100,8 +96,14 @@ span {
 }
 
 
-@media (max-width: 782px)  {
+@media (max-width: 1220px) {
     .is_active {
         display: block;
+    }
+}
+
+@media (max-width: 780px) {
+    .nav-menu-items li {
+        font-size: 5rem;
     }
 }

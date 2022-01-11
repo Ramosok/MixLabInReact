@@ -48,3 +48,39 @@
     padding: 20px;
     color: #F7A500;
 }
+
+@media (max-width: 480px) {
+    .card_container_six_screen {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .card_date, .card_tittle, .card_body, .link {
+        font-size: 3em;
+    }
+
+    .card {
+        width: 300%;
+        background-color: #1a83ff;
+
+    }
+
+    .sixth_screen_container {
+        background-color: yellow;
+    }
+
+    .card img {
+        width: 100vw;
+    }
+
+    .sixth_screen_container h2 {
+        font-size: 6em;
+    }
+    .sixth_screen_container p {
+        font-size: 3.5em;
+    }
+}

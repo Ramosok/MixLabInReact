@@ -1,6 +1,7 @@
 import {useState} from "react";
 import {navigationList} from "../Header/Navigation/data";
 import './burger.css'
+import {Link} from "react-router-dom";
 
 export const BurgerMenu = () => {
     const [sidebar, setSidebar] = useState(false);
@@ -19,11 +20,13 @@ export const BurgerMenu = () => {
                     {navigationList.map((item) => {
                         return (
                             <li key={item.id} className={item.cName}>
-                                <a href={item.linkTo}>{item.tittle}</a>
+                                {'/' ? <Link to={item.linkTo}>{item.tittle}</Link>
+                                    : <a href={item.linkTo}>{item.tittle}</a>}
                             </li>
                         );
                     })}
                 </ul>
+
             </nav>
 
         </>

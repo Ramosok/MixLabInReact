@@ -1,5 +1,3 @@
-import {Link} from "react-router-dom";
-
 import ItemMenu from "./ItemMenu";
 
 import {navigationList} from "./data";
@@ -11,14 +9,13 @@ const Navigation = () => {
     return (
         <>
             <ul className={[`${styles.nav} ${styles.is_active}`]}>
-                {navigationList.map(({tittle, linkTo}) => <li className='item_menu' key={tittle}>
+                {navigationList.map(({tittle, linkTo, id}) => <li className='item_menu' key={id}>
                     <ItemMenu
+                        id={id}
                         tittle={tittle}
                         linkTo={linkTo}/>
                 </li>)}
             </ul>
-            <Link to="/counter">Counter</Link>
-            <Link to="/counters">Counters</Link>
         </>
     );
 };

@@ -2,3 +2,8 @@
     object-fit: contain;
     margin: 0 40px;
 }
+@media (max-width: 1220px) {
+    .logo {
+        transform: translateX(110%);
+    }
+}

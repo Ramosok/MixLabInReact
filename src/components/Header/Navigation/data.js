@@ -28,5 +28,17 @@ export const navigationList = [
         tittle: 'Shop',
         linkTo: '#',
         cName: 'nav-text'
+    },
+    {
+        id: 6,
+        tittle: 'Counter',
+        linkTo: '/counter',
+        cName: 'nav-text'
+    },
+    {
+        id: 7,
+        tittle: 'Counters',
+        linkTo: '/counters',
+        cName: 'nav-text'
     }
 ];

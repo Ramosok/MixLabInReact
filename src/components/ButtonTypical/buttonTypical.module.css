@@ -5,3 +5,8 @@
     padding: 10px 33px 9px 43px;
     align-self: center;
 }
+@media (max-width: 480px) {
+    .btn__typical {
+        font-size: 2em;
+    }
+}
