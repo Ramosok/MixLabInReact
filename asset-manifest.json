@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MixLabInReact/static/css/main.ebb0da8f.css",
-    "main.js": "/MixLabInReact/static/js/main.6897fd85.js",
+    "main.css": "/MixLabInReact/static/css/main.dd919565.css",
+    "main.js": "/MixLabInReact/static/js/main.e92ebde9.js",
     "static/media/girlAndDog.svg": "/MixLabInReact/static/media/girlAndDog.3d1f43623b7a18105f167315e1af720b.svg",
     "static/media/first-screen-rabbit.svg": "/MixLabInReact/static/media/first-screen-rabbit.f5f22f765ba2e74122f3cafe2db05bcb.svg",
     "static/media/first-screen-right.svg": "/MixLabInReact/static/media/first-screen-right.51f8b68f9218f16a8bf9a6a403fbc78b.svg",
@@ -29,11 +29,11 @@
     "static/media/socialTwitter.svg": "/MixLabInReact/static/media/socialTwitter.846db793ac6cac826dca6810e94c13c7.svg",
     "index.html": "/MixLabInReact/index.html",
     "static/media/socialFacebook.svg": "/MixLabInReact/static/media/socialFacebook.ed18d89d405187124904f6c0a1bdea6d.svg",
-    "main.ebb0da8f.css.map": "/MixLabInReact/static/css/main.ebb0da8f.css.map",
-    "main.6897fd85.js.map": "/MixLabInReact/static/js/main.6897fd85.js.map"
+    "main.dd919565.css.map": "/MixLabInReact/static/css/main.dd919565.css.map",
+    "main.e92ebde9.js.map": "/MixLabInReact/static/js/main.e92ebde9.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebb0da8f.css",
-    "static/js/main.6897fd85.js"
+    "static/css/main.dd919565.css",
+    "static/js/main.e92ebde9.js"
   ]
 }
