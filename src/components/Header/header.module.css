@@ -10,21 +10,14 @@
     font-family: Roboto-Bold, serif;
 }
 
-/*
-@media (min-width: 768px) and (max-width: 1220px) {
-    .header__container {
-        max-width: 1210px;
-        width: 100%;
-    }
-}
-
 
 @media (max-width: 767px) {
     .header__container {
         max-width: 767px;
         width: 100%;
+        padding: 0 5px;
     }
-}*/
+}
 @media (max-width: 480px) {
     .header__container {
         max-width: 480px;

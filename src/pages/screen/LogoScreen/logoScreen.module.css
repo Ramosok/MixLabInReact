@@ -7,10 +7,17 @@
     padding: 40px;
 }
 
+.img_container {
+    max-width: 100%;
+}
+.img_container img {
+    max-width: 100%;
+}
 @media (max-width: 480px) {
     .logo_screen_container {
         max-height: 50px;
     }
+
     .logo_screen_container img {
         max-width: 70px;
         max-height: 70px;

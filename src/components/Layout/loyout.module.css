@@ -7,6 +7,14 @@
     font-family: Roboto-Bold, serif;
 }
 
+@media (max-width: 980px) {
+    .wrapper {
+        max-width: 980px;
+
+    }
+}
+
+
 @media (max-width: 480px) {
     .wrapper {
         max-width: 480px;

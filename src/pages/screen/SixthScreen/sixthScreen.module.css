@@ -3,6 +3,7 @@
     flex-direction: column;
     background-color: #FAF9F6;
     margin-bottom: 40px;
+    padding: 0 10px;
 }
 
 .sixth_screen_container h2 {
@@ -17,9 +18,12 @@
     display: flex;
     flex-direction: column;
     flex: 0 0 auto;
-    max-width: 485px;
-    margin: 30px;
+    max-width: 35%;
+    margin: 2%;
     border: 1px solid #E8DCF8;
+}
+.card img {
+    max-width: 100%;
 }
 
 .card_container_six_screen {

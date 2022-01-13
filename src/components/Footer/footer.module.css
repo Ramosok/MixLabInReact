@@ -10,8 +10,15 @@
 
 .footer_container h3 {
     color: #C282F0;
+    font-size: 4vh;
 }
-
+.footer_container p {
+    font-size: 3vh;
+}
+.footer_container a {
+    font-size: 3vh;
+    white-space: nowrap;
+}
 .color_text_link {
     display: flex;
     flex-direction: column;
@@ -49,14 +56,23 @@
     max-width: 350px;
 }
 
+@media (max-width: 767px) {
+    .footer_container {
+        max-width: 767px;
+        padding: 2px;
+    }
+}
+
 @media (max-width: 480px) {
     .footer_container {
         font-size: 10px;
         height: 300px;
     }
+
     .footer_top_container div {
         margin: 0 15px;
     }
+
     .address_block {
         max-width: 250px;
     }

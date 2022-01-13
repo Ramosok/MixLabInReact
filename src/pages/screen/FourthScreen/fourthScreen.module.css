@@ -3,11 +3,11 @@
     display: flex;
     justify-content: center;
     margin: 0 auto;
-    padding: 8px 150px;
+    padding: 8px 10%;
 }
 
 .fourth_screen_right_block {
-    padding: 150px 32px;
+    padding: 15% 32px;
 }
 
 .uppercase_text {
@@ -21,6 +21,9 @@
 
 .fourth_screen_body {
     font-size: 16px;
+}
+.img_gerl_and_dog img {
+    max-height: 80vh;
 }
 
 @media (max-width: 480px) {
