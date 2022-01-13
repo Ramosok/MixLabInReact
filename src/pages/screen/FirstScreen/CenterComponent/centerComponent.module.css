@@ -21,7 +21,7 @@
 
 .text_center {
     flex: 1 0 auto;
-    font-size: 7vh;
+    font-size: calc(100% + 3vh);
 }
 
 .text_center_body {

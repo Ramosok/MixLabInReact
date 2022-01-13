@@ -7,8 +7,8 @@
 }
 
 .dog {
-    max-height: 377px;
-    max-width: 280px;
+    max-height: 100%;
+    max-width: 100%;
     object-fit: contain;
 }
 
@@ -32,7 +32,7 @@
 }
 
 .left__block h2 {
-    font-size: 2.6em;
+    font-size: calc(100% + 10px);
 }
 
 .right_block_body {

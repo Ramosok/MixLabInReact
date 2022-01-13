@@ -58,29 +58,4 @@
         align-items: center;
 
     }
-
-    .card_date, .card_tittle, .card_body, .link {
-        font-size: 3em;
-    }
-
-    .card {
-        width: 300%;
-        background-color: #1a83ff;
-
-    }
-
-    .sixth_screen_container {
-        background-color: yellow;
-    }
-
-    .card img {
-        width: 100vw;
-    }
-
-    .sixth_screen_container h2 {
-        font-size: 6em;
-    }
-    .sixth_screen_container p {
-        font-size: 3.5em;
-    }
 }

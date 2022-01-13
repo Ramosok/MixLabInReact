@@ -1,9 +1,20 @@
 .logo_screen_container {
-   /* max-width: 1440px;*/
-    max-height: 151px;
+    height: 151px;
     background-color: #6F1EAA;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 40px;
+}
+
+@media (max-width: 480px) {
+    .logo_screen_container {
+        max-height: 50px;
+    }
+    .logo_screen_container img {
+        max-width: 70px;
+        max-height: 70px;
+        margin: 0 5px;
+
+    }
 }

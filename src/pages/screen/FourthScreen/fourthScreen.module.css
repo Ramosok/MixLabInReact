@@ -16,7 +16,7 @@
 }
 
 .fourth_screen_tittle {
-    font-size: 44px;
+    font-size: calc(100% + 15px);
 }
 
 .fourth_screen_body {

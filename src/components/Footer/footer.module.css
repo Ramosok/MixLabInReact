@@ -1,5 +1,5 @@
 .footer_container {
-    padding: 0 200px;
+    padding: 0 13%;
     max-width: 1440px;
     margin: 0 auto;
     background-color: #48156D;
@@ -49,3 +49,15 @@
     max-width: 350px;
 }
 
+@media (max-width: 480px) {
+    .footer_container {
+        font-size: 10px;
+        height: 300px;
+    }
+    .footer_top_container div {
+        margin: 0 15px;
+    }
+    .address_block {
+        max-width: 250px;
+    }
+}

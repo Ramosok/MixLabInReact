@@ -1,6 +1,6 @@
 import {Swiper, SwiperSlide} from 'swiper/react';
 
-import 'swiper/css';
+import styles from 'swiper/css';
 
 import CardSlider from "../screen/FifthScreen/Slider/CardSlider";
 import {cardSliderList} from "../screen/FifthScreen/Slider/data";
@@ -16,7 +16,7 @@ const SwiperS = () => {
             onSwiper={(swiper) => console.log(swiper)}
         >
             {cardSliderList.map(({img, text, logoSocial, Link}) =>
-                <SwiperSlide key={Math.random()} className='card_carousel swiper_class'>
+                <SwiperSlide key={Math.random()} className={[`${styles.card_carousel} ${styles.swiper_class}`]}>
                     <CardSlider
                         img={img}
                         text={text}
