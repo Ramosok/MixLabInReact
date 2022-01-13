@@ -1,5 +1,4 @@
 .fourth_screen_container {
-    max-width: 1440px;
     background-color: #e3e1e1;
     display: flex;
     justify-content: center;
@@ -22,4 +21,17 @@
 
 .fourth_screen_body {
     font-size: 16px;
+}
+
+@media (max-width: 480px) {
+    .fourth_screen_container {
+        max-width: 480px;
+        height: 100%;
+        position: relative;
+        padding: 0;
+    }
+
+    .img_gerl_and_dog {
+        display: none;
+    }
 }

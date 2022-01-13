@@ -9,7 +9,7 @@ import styles from './fourthScreen.module.css';
 const FourthScreen = () => {
     return (
         <div className={styles.fourth_screen_container}>
-            <div>
+            <div className={styles.img_gerl_and_dog}>
                 <img src={girlAndDog} alt=""/>
             </div>
             <div className={styles.fourth_screen_right_block}>

@@ -2,6 +2,27 @@
     height: 651px;
     background-color: #faebd7;
 }
-.img_left,.img_right {
+
+.img_left, .img_right {
     object-fit: contain;
+}
+
+@media (max-width: 480px) {
+    .first__screen {
+        max-width: 480px;
+        padding: 0;
+        width: 100%;
+    }
+
+    .img_left img {
+        float: left;
+        margin-top: 100px;
+        max-height: 300px;
+    }
+
+    .img_right img {
+        float: right;
+        margin-top: 100px;
+        max-height: 300px;
+    }
 }

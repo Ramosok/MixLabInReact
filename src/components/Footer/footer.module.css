@@ -1,8 +1,7 @@
 .footer_container {
-    padding: 0 200px 145px;
-    margin: 0 auto;
+    padding: 0 200px;
     max-width: 1440px;
-    max-height: 320px;
+    margin: 0 auto;
     background-color: #48156D;
     flex: 0 0 auto;
     color: #ffffff;

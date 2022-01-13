@@ -1,6 +1,6 @@
 .header__container {
     max-width: 1440px;
-    width: 100%;
+    width: 100vw;
     max-height: 93px;
     height: 100%;
     margin: 0 auto;
@@ -9,6 +9,8 @@
     align-items: center;
     font-family: Roboto-Bold, serif;
 }
+
+/*
 @media (min-width: 768px) and (max-width: 1220px) {
     .header__container {
         max-width: 1210px;
@@ -22,12 +24,12 @@
         max-width: 767px;
         width: 100%;
     }
-}
-
-
+}*/
 @media (max-width: 480px) {
     .header__container {
-        max-width: 1440px;
+        max-width: 480px;
+        height: 93px;
+        padding: 0;
         width: 100%;
     }
 }

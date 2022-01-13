@@ -4,7 +4,14 @@
     align-items: center;
 
 }
+
 .user__action a {
     margin: 0 33px;
     white-space: nowrap;
+}
+
+@media (max-width: 480px) {
+    .is_active a {
+        display: none;
+    }
 }

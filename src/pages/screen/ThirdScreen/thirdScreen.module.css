@@ -25,3 +25,15 @@
     color: #6F1EAA;
     font-size: 24px;
 }
+
+@media (max-width: 480px) {
+    .image_text_component_list {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .third__screen__container {
+        height: 100%
+    }
+
+}
